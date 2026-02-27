@@ -1,0 +1,5 @@
+{
+  "name": "CareerAI - Job Discovery & Career Guidance",
+  "description": "A premium AI-powered platform for job discovery, career path prediction, and resume-based matching.",
+  "requestFramePermissions": ["geolocation"]
+}
